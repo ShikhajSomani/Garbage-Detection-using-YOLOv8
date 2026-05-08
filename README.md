@@ -138,16 +138,18 @@ Upload an image and receive garbage detection predictions.
 {
   "detections": [
     {
-      "class": "plastic bottle",
-      "confidence": 94.21
+      "class": "plastic bag",
+      "confidence": 94.71
     },
     {
-      "class": "can",
-      "confidence": 88.47
+      "class": "plastic bag",
+      "confidence": 75.25
     }
   ]
 }
 ```
+<img width="737" height="326" alt="image" src="https://github.com/user-attachments/assets/1fb574b3-398e-4a0f-9c8c-f0adf7e44b98" />
+
 
 ---
 

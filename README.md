@@ -62,7 +62,7 @@ Garbage-Detection-using-YOLOv8/
 ├── main.py
 ├── best.pt
 ├── requirements.txt
-├── uploads/
+├── Garbage_Detection_YOLOv8.ipynb
 ├── .gitignore
 └── README.md
 ```

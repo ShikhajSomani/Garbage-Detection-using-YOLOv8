@@ -148,7 +148,7 @@ Upload an image and receive garbage detection predictions.
   ]
 }
 ```
-<img width="737" height="326" alt="image" src="https://github.com/user-attachments/assets/1fb574b3-398e-4a0f-9c8c-f0adf7e44b98" />
+<img width="740" height="331" alt="image" src="https://github.com/user-attachments/assets/0ee81944-c276-4a2e-9cb4-db5a5395e69b" />
 
 
 ---
